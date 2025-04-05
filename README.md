@@ -27,5 +27,5 @@ I downloaded the images and converted them to WebP format to make the page load 
   - Cleaned up the main CSS file and removed over 20,000 lines of unused styles
   - All links, except Contact pages, Privacy policy, Terms of service Support pages, Social media links,  Legal documents, are replaced with ‘www.click.example.com/click’
 
-- ### Scripts in the <head>
+- ### Scripts in the tag head
  I didn’t remove scripts like tracking tools (VWO, Mixpanel, etc.) from the <head> section because I wasn’t sure if they were still needed. I just made sure to add async or defer where it made sense.
